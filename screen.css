@@ -1,1 +1,27 @@
 /* Add screen styles below */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
+
+body {
+    font-family: "Inter", sans-serif;
+    color: #353535;
+}
+
+h1 {
+    font-size: ;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 20px
+}
+
+.source {
+    color: ;
+}
