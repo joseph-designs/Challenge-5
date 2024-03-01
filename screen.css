@@ -21,7 +21,8 @@ h1 {
 }
 
 .blog-text {
-    margin: 0px 20% ;
+    margin: 0px 20%;
+    margin-top: 0px;
 }
 
 h2 {
